@@ -1,0 +1,125 @@
+body    {
+    font-family: 'quicksand', sans-serif;
+    margin: 0 10%;
+}
+.title      {
+    content: auto;
+    padding: 10px 10px;
+    border: 2px grey;
+    margin: 5px 5px;
+    text-align:left;
+}
+
+.container   {
+    border: 2px solid #a2a2a6;
+    padding: 20px;
+    margin: 20px auto;
+}
+.container-colors {
+    width: 100%;
+  }
+.color-panel    {
+        display: inline-block;
+        width: 32%;
+        text-align: center;
+        margin: 20px auto;
+        min-height: 100px;
+      }
+.green-strong   {
+    background-color: #3E4522;
+    color: #fff;
+}
+.cardboard-color {  
+    background-color: #B0916E;
+    color: #fff;
+}  
+.orange-romantic {
+    background-color: #e85d42;
+    color: #fff;
+}
+.black  {
+    background-color: #000000;
+    color:#fff
+}
+.white  {
+    background-color:#fff;
+    color:black;
+    border: solid;
+
+}
+.font-panel {
+        display: inline-block;
+        width: 32%;
+        text-align: center;
+        margin: 20px auto;
+        min-height: 100px;
+}
+.font-label    {
+    text-decoration: underline;
+    font-size: 40px;  
+    font-weight: 400;
+}
+.light  {
+    font-weight:300;
+}
+.regular    {
+    font-weight:400;
+}
+.medium {
+    font-weight: 500;
+}
+.semi-bold  {
+    font-weight: 600;
+}
+.bold   {
+    font-weight: 700;
+}
+.rajdhani   {
+    font-family: 'rajdhani', sans-serif;
+}
+.poiret-one    {
+    font-family: 'poiret one', cursive;
+}
+.courgette  {
+    font-family: 'courgette', cursive;
+}
+.ubunto-condensed   {
+    font-family: 'ubunto condensed', sans-serif;
+}
+.special-elite  {
+    font-family: 'special elite', cursive;
+}
+.yellowtail     {
+    font-family: 'yellowtail', cursive;
+}
+.shadows-into-light    {
+    font-family: 'shadows into light', cursive;
+}
+.op     {
+    font-size: 15px;
+}
+
+.text-panel h1  {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'rajdhani', sans-serif;
+}
+.text-panel h2  {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'rajdhani', sans-serif;
+}
+.text-panel p   {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'poiret one', cursive;
+
+}
+.box-container  {
+    border: 2px solid #a2a2a6;
+    padding: 20px;
+    max-width: fit-content;
+}
+.box-property   {
+    border-bottom: 2px solid #a2a2a6;
+}
